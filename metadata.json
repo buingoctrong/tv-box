@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TVBox Pro - Phần Mềm & Sửa Chữa",
+  "description": "Nền tảng chuyên nghiệp cung cấp giải pháp phần mềm và hướng dẫn kỹ thuật sửa chữa TV Box hàng đầu Việt Nam.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
